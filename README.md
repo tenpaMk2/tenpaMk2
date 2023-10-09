@@ -2,17 +2,20 @@
 
 - [gatsby-theme-figure-blog](https://github.com/tenpaMk2/gatsby-theme-figure-blog)
   - The blogging theme that is suitable for photographs.
+  - ![gatsby-theme-figure-blog sample](https://raw.githubusercontent.com/tenpaMk2/gatsby-theme-figure-blog/main/theme/images/example-1.png)
 - [react-diagram-maker](https://github.com/tenpaMk2/react-diagram-maker)
   - Train diagram maker made by React.
-- [canvas-rectangle-to-square-image](https://github.com/tenpaMk2/canvas-rectangle-to-square-image)
-  - Generate square image from rectangle image by canvas(webgl).
+  - [Use❗](https://tenpamk2-blog.netlify.app/apps/react-diagram-maker/)
+  - ![react-diagram-maker sample](https://raw.githubusercontent.com/tenpaMk2/react-diagram-maker/main/img/3.png)
 - [excalibur-dino-runner](https://github.com/tenpaMk2/excalibur-dino-runner)
   - Simple tapping game made by Excalibur.js.
-  - [Play!!](https://tenpamk2-blog.netlify.app/apps/excalibur-dino-runner/)
+  - [Play❗](https://tenpamk2-blog.netlify.app/apps/excalibur-dino-runner/)
+  - ![excalibur-dino-runner sample](https://raw.githubusercontent.com/tenpaMk2/excalibur-dino-runner/main/imgs/sample.png)
 - [excalibur-examples](https://github.com/tenpaMk2/excalibur-examples)
   - Excalibur.js examples (demos and demo-games).
-- [excalibur-parcel2-vscode-debuggable-template](https://github.com/tenpaMk2/excalibur-parcel2-vscode-debuggable-template)
-  - Excalibur.js Parcel2 VSCode debuggable template.
+- [excalibur-vite-vscode-debuggable-template](https://github.com/tenpaMk2/excalibur-vite-vscode-debuggable-template)
+  - Excalibur.js Vite template that is debuggable by VSCode.
+  - ![](https://raw.githubusercontent.com/tenpaMk2/excalibur-vite-vscode-debuggable-template/main/imgs/debug.png)
 
 ## Links
 
