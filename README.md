@@ -1,5 +1,8 @@
 ## Works
 
+- [tauri-sd-image-viewer](https://github.com/tenpaMk2/tauri-sd-image-viewer2)
+  - The image viewer for the images generated with Stable Diffusion.
+  - ![tauri-sd-image-viewer screenshots](https://github.com/tenpaMk2/tauri-sd-image-viewer2/blob/780a7b02187071c53fb803459ead86f93df03498/images/sample-single.png)
 - [gatsby-theme-figure-blog](https://github.com/tenpaMk2/gatsby-theme-figure-blog)
   - The blogging theme that is suitable for photographs.
   - ![gatsby-theme-figure-blog sample](https://raw.githubusercontent.com/tenpaMk2/gatsby-theme-figure-blog/main/theme/images/example-1.png)
